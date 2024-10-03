@@ -16,12 +16,6 @@ I'm a passionate **Backend Developer** who loves solving complex problems and op
 - 🔍 Collaborate with other team on API integration on POS and CRM project
 - 🛠 Server deployment and configuration
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
-
 ## 📫 How to Reach Me
 - **Instagram**: [@wil_2.02](https://instagram.com/wil_2.02)
 - **Email**: [willygamun@gmail.com](mailto:willygamun@gmail.com)
