@@ -11,7 +11,7 @@ I'm a passionate **Backend Developer** who loves solving complex problems and op
 
 ## 💼 Experience
 - 🎯 Building CRM program [laravel]
-- 🎯 Building digital delivery note system [laravel]
+- 🎯 Building warehouse stock system [laravel]
 - 🔍 Collaborate with other team on API integration on POS and CRM project
 - 🛠 Server deployment and configuration
 
