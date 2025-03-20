@@ -8,7 +8,6 @@ I'm a passionate **Backend Developer** who loves solving complex problems and op
 - 📊 **Databases**: MySQL, SQLite, PostgreSQL
 - 🔧 **Tools**: Git, Docker, Visual Studio Code, Postman
 - 🧑‍💻 **Currently Exploring**: flutter framework
-- 📚 **Learning**: Keep improving till I make the *BOOM* code that never exist before!
 
 ## 💼 Experience
 - 🎯 Building CRM program [laravel]
