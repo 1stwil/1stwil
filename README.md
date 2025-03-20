@@ -4,7 +4,7 @@
 I'm a passionate **Backend Developer** who loves solving complex problems and optimizing system performance. I have experience working with a variety of programming languages, focusing on backend technologies to build reliable and scalable systems.
 
 - 💻 **Languages**: C++, Python, PHP
-- 🌐 **Framework**: Laravel
+- 🌐 **Framework**: Laravel, Django
 - 📊 **Databases**: MySQL, SQLite, PostgreSQL
 - 🔧 **Tools**: Git, Docker, Visual Studio Code, Postman
 - 🧑‍💻 **Currently Exploring**: flutter framework
