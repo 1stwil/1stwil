@@ -25,4 +25,7 @@ Violets are blue
 Unexpected '{'
 on line 32;
 
+## Currently exploring
+- AI Model Training
+
 ⭐️ **Feel free to explore my repositories, open issues, or connect with me. I'm always excited to work on new challenges and opportunities!**
