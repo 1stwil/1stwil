@@ -29,6 +29,6 @@ on line 32;
 ## Currently Exploring
 - AI integration in web applications
 - Flutter for cross-platform development
-- AI model finetuning
+- model finetuning
 
 **Feel free to explore my repositories, open issues, or connect with me. I'm always excited to work on new challenges and opportunities!**
