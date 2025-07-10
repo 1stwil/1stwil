@@ -4,7 +4,6 @@
 I'm a passionate **Fullstack Web Developer** specializing in Laravel and PHP. I enjoy building efficient web applications and optimizing system performance in small development teams where I take on multiple responsibilities.
 
 - 💻 **Primary Stack**: PHP, JavaScript
-- 🌐 **Framework**: Laravel, Bootstrap, jQuery
 - 📊 **Databases**: MySQL, PostgreSQL
 - 🔧 **Tools**: Git, Visual Studio Code, Postman, Google Search Console
 
