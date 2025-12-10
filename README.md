@@ -1,7 +1,7 @@
 ##  About Me
 I'm a man who focusing on **Fullstack Web Developer** specializing in Laravel and PHP. I enjoy building efficient web applications and optimizing system performance to make a solution for some problems.
 
-## 💼 Experience
+## Experience
 - 🎯 Building and maintaining customer loyalty program
 - 🎯 Building and maintaining warehouse stock management solutions
 - 🎯 Building and maintaining point of sales program
