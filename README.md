@@ -1,18 +1,16 @@
-# Hi there! 👋 Welcome to My GitHub Profile
-
 ##  About Me
-I'm a passionate **Fullstack Web Developer** specializing in Laravel and PHP. I enjoy building efficient web applications and optimizing system performance in small development teams where I take on multiple responsibilities.
-
-- 💻 **Primary Stack**: PHP, JavaScript
-- 📊 **Databases**: MySQL
-- 🔧 **Tools**: Git, Visual Studio Code, Postman, Google Search Console
+I'm a man who focusing on **Fullstack Web Developer** specializing in Laravel and PHP. I enjoy building efficient web applications and optimizing system performance to make a solution for some problems.
 
 ## 💼 Experience
-- 🎯 Building and maintaining CRM systems with Laravel
+- 🎯 Building and maintaining customer loyalty program
 - 🎯 Building and maintaining warehouse stock management solutions
-- 🎯 Building and maintaining 
-- 🔍 API integration between POS and CRM systems
-- 🛠 Server deployment and configuration for web applications
+- 🎯 Building and maintaining point of sales program
+- 🎯 Building and maintaining internal approval flow program
+- 🎯 API integration between my program, centralized source
+- 🛠 Server build using orange pi 5 pro device
+- 🛠 NAS system with automation backup and raid mode
+- 🛠 Building API Gateway Server using orange pi 5 pro device
+- 🛠 Dual network configuration on server using automation failure action system 
 
 ## How to Reach Me
 - **Instagram**: [@wil_2.02](https://instagram.com/wil_2.02)
